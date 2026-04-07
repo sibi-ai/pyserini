@@ -499,3 +499,4 @@ Before you move on, however, add an entry in the "Reproduction Log" at the botto
 + Results reproduced by [@raghav-ai](https://github.com/raghav-ai) on 2026-03-03 (commit [`99e2810`](https://github.com/castorini/pyserini/commit/99e28100860ac226a9e04cb4d65090d2d101d894))
 + Results reproduced by [@justin13888](https://github.com/justin13888) on 2026-03-18 (commit [`76c95a4`](https://github.com/castorini/pyserini/commit/76c95a455c4750e373ed2a9feb2528ffe8e5d3ba))
 + Results reproduced by [@namatvir](https://github.com/namatvir) on 2026-03-15 (commit [`76c95a4`](https://github.com/castorini/pyserini/commit/76c95a455c4750e373ed2a9feb2528ffe8e5d3ba))
++ Results reproduced by [@sibi-ai](https://github.com/sibi-ai) on 2026-04-07 (commit [`295fdbf`](https://github.com/castorini/anserini/commit/295fdbf6173f1e3663a541dca82a2f1c00026)) using Google Colab with Pyserini on Python 3.11. All steps completed successfully.
