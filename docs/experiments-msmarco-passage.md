@@ -499,7 +499,7 @@ Before you move on, however, add an entry in the "Reproduction Log" at the botto
 + Results reproduced by [@raghav-ai](https://github.com/raghav-ai) on 2026-03-03 (commit [`99e2810`](https://github.com/castorini/pyserini/commit/99e28100860ac226a9e04cb4d65090d2d101d894))
 + Results reproduced by [@justin13888](https://github.com/justin13888) on 2026-03-18 (commit [`76c95a4`](https://github.com/castorini/pyserini/commit/76c95a455c4750e373ed2a9feb2528ffe8e5d3ba))
 + Results reproduced by [@namatvir](https://github.com/namatvir) on 2026-03-15 (commit [`76c95a4`](https://github.com/castorini/pyserini/commit/76c95a455c4750e373ed2a9feb2528ffe8e5d3ba))
-+ Results reproduced by [@sibi-ai](https://github.com/sibi-ai) on 2026-04-07 (commit [`c316456`](https://github.com/castorini/pyserini/commit/c316456c9138ea2686d9079909ca7b2fed9d90)) using Google Colab, Python 3.11, Java 21. All steps completed successfully.
++ Results reproduced by [@sibi-ai](https://github.com/sibi-ai) on 2026-04-07 (commit [`c316456`](https://github.com/castorini/pyserini/commit/c316456c9138ea2686d9079909ca7b2fed9d90))
 + Results reproduced by [@ShanaxWorld](https://github.com/ShanaxWorld) on 2026-03-27 (commit [`59dfd0e`](https://github.com/castorini/pyserini/commit/59dfd0e363681691efad161fac8cc734c2ebebb8))
 + Results reproduced by [@egekaya1](https://github.com/egekaya1) on 2026-03-29 (commit [`59dfd0e`](https://github.com/castorini/pyserini/commit/59dfd0e363681691efad161fac8cc734c2ebebb8))
 + Results reproduced by [@h79yan](https://github.com/h79yan) on 2026-04-11 (commit [`b973a40`](https://github.com/castorini/pyserini/commit/b973a40904cde63a23257b9342a6b786ea43d52e))
